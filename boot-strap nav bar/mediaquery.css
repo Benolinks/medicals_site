@@ -1,0 +1,7 @@
+@media (max-width:780px){
+    #cd{
+        border: 7px solid red;
+display: flex;
+flex-direction: column;
+    }
+}
